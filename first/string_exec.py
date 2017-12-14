@@ -8,3 +8,5 @@ a = exec('def x(): pass')
 print(a)
 
 print('another change')
+
+z = 2
